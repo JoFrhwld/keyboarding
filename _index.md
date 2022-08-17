@@ -10,6 +10,8 @@ draft: false
 weight: 90
 ---
 
+
+
 In command line interfaces, there are some characters you'll want to enter frequently which don't otherwise show up very often when you're typing. This guide is meant to help you find those keys.
 
 ## Individual Keys
@@ -105,10 +107,6 @@ This symbol is *sometimes* used to indicate the Control key on a Mac keyboard, b
 ### `_` underscore
 
 Underscores are often used in file and variable names.
-
-### `~` tilde
-
-This symbol is used as a shortcut for your home directory in unix-like systems, and for many other purposes
 
 <figure>
 <img src="_index_files/figure-gfm/unnamed-chunk-15-1.png" style="width:150.0%" alt="underscore on the tenkeyless keyboard" />

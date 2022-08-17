@@ -120,10 +120,6 @@ ggkeyboard(mac,
 
 These have a number of different uses in programming languages. Usually when you have an "open" bracket `[` you need to make sure that you "close" it `]`.
 
-### `~` tilde
-
-This symbol is used as a shortcut for your home directory in unix-like systems, and for many other purposes
-
 ```{r}
 #| fig.cap: "square brackets on the tenkeyless keyboard"
 #| cap-location: margin
@@ -224,9 +220,6 @@ ggkeyboard(keyboard = mac,
 
 Underscores are often used in file and variable names.
 
-### `~` tilde
-
-This symbol is used as a shortcut for your home directory in unix-like systems, and for many other purposes
 
 ```{r}
 #| fig.cap: "underscore on the tenkeyless keyboard"
@@ -322,10 +315,7 @@ ggkeyboard(keyboard = mac,
 
 ### `<` and `>` less than & greater than *or* angle brackets
 
-Sometimes the symbols `<` and `>` are used for their mathematical meaning of 
-"less than" and "greater than." Other times they're used as brackets, a lot 
-like the square or curly brackets.
-
+Sometimes the symbols `<` and `>` are used for their mathematical meaning of "less than" and "greater than." Other times they're used as brackets, a lot like the square or curly brackets.
 
 ```{r}
 #| fig.cap: "angle bracket location on the tenkeyless keyboard"
@@ -341,9 +331,6 @@ ggkeyboard(keyboard =tkl,
                   alpha = 0.3)
 ```
 
-
-
-
 ```{r}
 #| fig.cap: "angle bracket location on the tenkeyless keyboard"
 #| cap-location: margin
@@ -358,14 +345,9 @@ ggkeyboard(keyboard = mac,
                   alpha = 0.3)
 ```
 
-
 ## Modifier Combos
 
-Sometimes you'll see key combinations suggested to help you use the command line
-and other programming languages. For example, the key combo "Control+C" or "Ctrl+C"
-will end whatever process is running in a Unix-like system. What this notation means
-is that you should press the `Control` key, and while continuing to hold it, press
-the `C` key.
+Sometimes you'll see key combinations suggested to help you use the command line and other programming languages. For example, the key combo "Control+C" or "Ctrl+C" will end whatever process is running in a Unix-like system. What this notation means is that you should press the `Control` key, and while continuing to hold it, press the `C` key.
 
 ```{r}
 #| fig.cap: "Ctrl+C location on the tenkeyless keyboard"
@@ -395,5 +377,4 @@ ggkeyboard(keyboard = mac,
                   alpha = 0.3)
 ```
 
-If you ever see more than two keys included in a key combination, assume they need 
-to be pressed and held in the order they appear.
+If you ever see more than two keys included in a key combination, assume they need to be pressed and held in the order they appear.
