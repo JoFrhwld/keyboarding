@@ -21,9 +21,9 @@ library(ggkeyboard)
 library(tidyverse)
 ```
 
-# Individual Keys
+## Individual Keys
 
-## <code>\`</code> "back tick"
+### <code>\`</code> back tick
 
 This is importantly not the same as your familiar apostrophe key.
 
@@ -54,7 +54,7 @@ ggkeyboard(keyboard = mac,
                   alpha = 0.3)
 ```
 
-## `\` backslash
+### `\` backslash
 
 This symbol is used to separate directory names in DOS, but is more usually used as an "escape" character. It is **importantly** different from the forward slash symbol, `/`.
 
@@ -85,7 +85,7 @@ ggkeyboard(mac,
                   alpha = 0.3)
 ```
 
-## `/` slash, or forward slash
+### `/` slash, or forward slash
 
 While we're on the subject, here's forward slash, used to separate directories on Unix-like systems (including macOS).
 
@@ -362,7 +362,7 @@ ggkeyboard(keyboard = mac,
 ## Modifier Combos
 
 Sometimes you'll see key combinations suggested to help you use the command line
-and other programming languages. For example, the key combo `Control+C` or `Ctrl+C` 
+and other programming languages. For example, the key combo "Control+C" or "Ctrl+C"
 will end whatever process is running in a Unix-like system. What this notation means
 is that you should press the `Control` key, and while continuing to hold it, press
 the `C` key.
@@ -382,7 +382,7 @@ ggkeyboard(keyboard =tkl,
 ```
 
 ```{r}
-#| fig.cap: "`Ctrl+C` location on the tenkeyless keyboard"
+#| fig.cap: "Ctrl+C location on the tenkeyless keyboard"
 #| cap-location: margin
 #| column: screen-inset-shaded
 #| out-width: 150%
@@ -395,5 +395,5 @@ ggkeyboard(keyboard = mac,
                   alpha = 0.3)
 ```
 
-```
-
+If you ever see more than two keys included in a key combination, assume they need 
+to be pressed and held in the order they appear.

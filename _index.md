@@ -14,9 +14,9 @@ weight: 90
 
 In command line interfaces, there are some characters you'll want to enter frequently which don't otherwise show up very often when you're typing. This guide is meant to help you find those keys.
 
-# Individual Keys
+## Individual Keys
 
-## <code>\`</code> "back tick"
+### <code>\`</code> back tick
 
 This is importantly not the same as your familiar apostrophe key.
 
@@ -30,7 +30,7 @@ This is importantly not the same as your familiar apostrophe key.
 <figcaption aria-hidden="true">backtick on the mac keyboard</figcaption>
 </figure>
 
-## `\` backslash
+### `\` backslash
 
 This symbol is used to separate directory names in DOS, but is more usually used as an "escape" character. It is **importantly** different from the forward slash symbol, `/`.
 
@@ -44,7 +44,7 @@ This symbol is used to separate directory names in DOS, but is more usually used
 <figcaption aria-hidden="true">backslash on the mac keyboard</figcaption>
 </figure>
 
-## `/` slash, or forward slash
+### `/` slash, or forward slash
 
 While we're on the subject, here's forward slash, used to separate directories on Unix-like systems (including macOS).
 
@@ -173,7 +173,7 @@ like the square or curly brackets.
 ## Modifier Combos
 
 Sometimes you'll see key combinations suggested to help you use the command line
-and other programming languages. For example, the key combo `Control+C` or `Ctrl+C`
+and other programming languages. For example, the key combo "Control+C" or "Ctrl+C"
 will end whatever process is running in a Unix-like system. What this notation means
 is that you should press the `Control` key, and while continuing to hold it, press
 the `C` key.
@@ -185,7 +185,8 @@ the `C` key.
 
 <figure>
 <img src="_index_files/figure-gfm/unnamed-chunk-24-1.png" style="width:150.0%" alt="Ctrl+C location on the tenkeyless keyboard" />
-<figcaption aria-hidden="true"><code>Ctrl+C</code> location on the tenkeyless keyboard</figcaption>
+<figcaption aria-hidden="true">Ctrl+C location on the tenkeyless keyboard</figcaption>
 </figure>
 
-\`\`\`
+If you ever see more than two keys included in a key combination, assume they need
+to be pressed and held in the order they appear.
