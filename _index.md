@@ -6,6 +6,8 @@ knitr:
   opts_chunk: 
     echo: false
     message: false
+draft: false
+weight: 90
 ---
 
 
