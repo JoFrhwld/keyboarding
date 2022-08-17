@@ -1,9 +1,6 @@
 ---
 title: "Keyboarding"
-format: 
-  hugo:
-    toc: true
-    toc-location: left
+format: hugo
 editor: visual
 knitr: 
   opts_chunk: 

@@ -1,9 +1,6 @@
 ---
 title: "Keyboarding"
-format: 
-  hugo:
-    toc: true
-    toc-location: left
+format: hugo
 editor: visual
 knitr: 
   opts_chunk: 
@@ -12,13 +9,6 @@ knitr:
 ---
 
 
-
--   <a href="#keyboarding-for-the-command-line" id="toc-keyboarding-for-the-command-line">Keyboarding for the command line</a>
--   <a href="#individual-keys" id="toc-individual-keys">Individual Keys</a>
-    -   <a href="#back-tick" id="toc-back-tick"><code>`</code> “back tick”</a>
-    -   <a href="#backslash" id="toc-backslash"><code>\</code> backslash</a>
-    -   <a href="#slash-or-forward-slash" id="toc-slash-or-forward-slash"><code>/</code> slash, or forward slash</a>
-    -   <a href="#caret" id="toc-caret"><code>^</code> “caret”</a>
 
 ## Keyboarding for the command line
 
