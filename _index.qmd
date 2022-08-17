@@ -1,0 +1,145 @@
+---
+title: "Keyboarding"
+format: 
+  hugo:
+    toc: true
+    toc-location: left
+editor: visual
+knitr: 
+  opts_chunk: 
+    echo: false
+    message: false
+---
+
+## Keyboarding for the command line
+
+In command line interfaces, there are some characters you'll want to enter frequently which don't otherwise show up very often when you're typing. This guide is meant to help you find those keys.
+
+
+```{r}
+library(ggkeyboard)
+library(tidyverse)
+```
+
+# Individual Keys
+
+## <code>&#96;</code> "back tick"
+
+This is importantly not the same as your familiar apostrophe key.
+
+```{r}
+#| fig.cap: "backtick on the tenkeyless keyboard"
+#| cap-location: margin
+#| column: screen-inset-shaded
+#| out-width: 150%
+#| fig-width: 10
+#| fig-height: 4
+ggkeyboard(palette = keyboard_palette("wahtsy")) %>%
+   highlight_keys(c("~`"),
+                  fill = "red", colour = "red",
+                  alpha = 0.3)
+```
+```{r}
+#| fig.cap: "backtick on the mac keyboard"
+#| cap-location: margin
+#| column: screen-inset-shaded
+#| out-width: 150%
+#| fig-width: 10
+#| fig-height: 4
+ggkeyboard(keyboard = mac,
+           palette = keyboard_palette("magic")) %>%
+   highlight_keys(c("~`"),
+                  fill = "red", colour = "red",
+                  alpha = 0.3)
+```
+
+## `\` backslash
+
+This symbol is used to separate directory names in DOS, but is more usually used 
+as an "escape" character. It is **importantly** different from the forward
+slash symbol, `/`.
+
+
+```{r}
+#| fig.cap: "backslash on the tenkeyless keyboard"
+#| cap-location: margin
+#| column: screen-inset-shaded
+#| out-width: 150%
+#| fig-width: 10
+#| fig-height: 4
+ggkeyboard(palette = keyboard_palette("wahtsy")) %>%
+   highlight_keys(c("|\\"),
+                  fill = "red", colour = "red",
+                  alpha = 0.3)
+```
+```{r}
+#| fig.cap: "backslash on the mac keyboard"
+#| cap-location: margin
+#| column: screen-inset-shaded
+#| out-width: 150%
+#| fig-width: 10
+#| fig-height: 4
+ggkeyboard(mac,
+           palette = keyboard_palette("magic")) %>%
+   highlight_keys(c("|\\"),
+                  fill = "red", colour = "red",
+                  alpha = 0.3)
+```
+
+
+## `/` slash, or forward slash
+
+While we're on the subject, here's forward slash, used to separate directories
+on Unix-like systems (including macOS).
+
+```{r}
+#| fig.cap: "slash on the tenkeyless keyboard"
+#| cap-location: margin
+#| column: screen-inset-shaded
+#| out-width: 150%
+#| fig-width: 10
+#| fig-height: 4
+ggkeyboard(palette = keyboard_palette("wahtsy")) %>%
+   highlight_keys(c("?/"),
+                  fill = "red", colour = "red",
+                  alpha = 0.3)
+```
+
+
+```{r}
+#| fig.cap: "slash on the mac keyboard"
+#| cap-location: margin
+#| column: screen-inset-shaded
+#| out-width: 150%
+#| fig-width: 10
+#| fig-height: 4
+ggkeyboard(mac,
+           palette = keyboard_palette("magic")) %>%
+   highlight_keys(c("?/"),
+                  fill = "red", colour = "red",
+                  alpha = 0.3)
+```
+
+
+
+## `^` "caret"
+
+*Sometimes* you might see the symbol `^` used to indicate the control key on a
+Mac keyboard. But usually you'll want to be using this symbol.
+
+
+```{r}
+#| fig.cap: "caret on the mac keyboard"
+#| cap-location: margin
+#| column: screen-inset-shaded
+#| out-width: 150%
+#| fig-width: 10
+#| fig-height: 4
+ggkeyboard(keyboard = mac,
+           palette = keyboard_palette("magic")) %>%
+   highlight_keys(c("~`"),
+                  fill = "red", colour = "red",
+                  alpha = 0.3)
+```
+
+
