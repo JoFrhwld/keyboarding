@@ -10,6 +10,8 @@ draft: false
 weight: 90
 ---
 
+
+
 In command line interfaces, there are some characters you'll want to enter frequently which don't otherwise show up very often when you're typing. This guide is meant to help you find those keys.
 
 ## Individual Keys
@@ -20,12 +22,15 @@ This is importantly not the same as your familiar apostrophe key.
 
 <figure>
 <img src="_index_files/figure-gfm/unnamed-chunk-3-1.png" style="width:150.0%" alt="backtick on the tenkeyless keyboard" />
-<figcaption aria-hidden="true">backtick on the tenkeyless keyboard</figcaption>
+<figcaption aria-hidden="true">
+backtick on the tenkeyless keyboard
+</figcaption>
 </figure>
-
 <figure>
 <img src="_index_files/figure-gfm/unnamed-chunk-4-1.png" style="width:150.0%" alt="backtick on the mac keyboard" />
-<figcaption aria-hidden="true">backtick on the mac keyboard</figcaption>
+<figcaption aria-hidden="true">
+backtick on the mac keyboard
+</figcaption>
 </figure>
 
 ### `\` backslash
@@ -34,12 +39,15 @@ This symbol is used to separate directory names in DOS, but is more usually used
 
 <figure>
 <img src="_index_files/figure-gfm/unnamed-chunk-5-1.png" style="width:150.0%" alt="backslash on the tenkeyless keyboard" />
-<figcaption aria-hidden="true">backslash on the tenkeyless keyboard</figcaption>
+<figcaption aria-hidden="true">
+backslash on the tenkeyless keyboard
+</figcaption>
 </figure>
-
 <figure>
 <img src="_index_files/figure-gfm/unnamed-chunk-6-1.png" style="width:150.0%" alt="backslash on the mac keyboard" />
-<figcaption aria-hidden="true">backslash on the mac keyboard</figcaption>
+<figcaption aria-hidden="true">
+backslash on the mac keyboard
+</figcaption>
 </figure>
 
 ### `/` slash, or forward slash
@@ -48,12 +56,15 @@ While we're on the subject, here's forward slash, used to separate directories o
 
 <figure>
 <img src="_index_files/figure-gfm/unnamed-chunk-7-1.png" style="width:150.0%" alt="slash on the tenkeyless keyboard" />
-<figcaption aria-hidden="true">slash on the tenkeyless keyboard</figcaption>
+<figcaption aria-hidden="true">
+slash on the tenkeyless keyboard
+</figcaption>
 </figure>
-
 <figure>
 <img src="_index_files/figure-gfm/unnamed-chunk-8-1.png" style="width:150.0%" alt="slash on the mac keyboard" />
-<figcaption aria-hidden="true">slash on the mac keyboard</figcaption>
+<figcaption aria-hidden="true">
+slash on the mac keyboard
+</figcaption>
 </figure>
 
 ### `[` and `]` square brackets
@@ -62,12 +73,15 @@ These have a number of different uses in programming languages. Usually when you
 
 <figure>
 <img src="_index_files/figure-gfm/unnamed-chunk-9-1.png" style="width:150.0%" alt="square brackets on the tenkeyless keyboard" />
-<figcaption aria-hidden="true">square brackets on the tenkeyless keyboard</figcaption>
+<figcaption aria-hidden="true">
+square brackets on the tenkeyless keyboard
+</figcaption>
 </figure>
-
 <figure>
 <img src="_index_files/figure-gfm/unnamed-chunk-10-1.png" style="width:150.0%" alt="tilde on the mac keyboard" />
-<figcaption aria-hidden="true">tilde on the mac keyboard</figcaption>
+<figcaption aria-hidden="true">
+tilde on the mac keyboard
+</figcaption>
 </figure>
 
 ## Modified Keys
@@ -80,12 +94,15 @@ This symbol is used as a shortcut for your home directory in unix-like systems, 
 
 <figure>
 <img src="_index_files/figure-gfm/unnamed-chunk-11-1.png" style="width:150.0%" alt="tilde on the tenkeyless keyboard" />
-<figcaption aria-hidden="true">tilde on the tenkeyless keyboard</figcaption>
+<figcaption aria-hidden="true">
+tilde on the tenkeyless keyboard
+</figcaption>
 </figure>
-
 <figure>
 <img src="_index_files/figure-gfm/unnamed-chunk-12-1.png" style="width:150.0%" alt="tilde on the mac keyboard" />
-<figcaption aria-hidden="true">tilde on the mac keyboard</figcaption>
+<figcaption aria-hidden="true">
+tilde on the mac keyboard
+</figcaption>
 </figure>
 
 ### `^` caret
@@ -94,12 +111,15 @@ This symbol is *sometimes* used to indicate the Control key on a Mac keyboard, b
 
 <figure>
 <img src="_index_files/figure-gfm/unnamed-chunk-13-1.png" style="width:150.0%" alt="caret on the tenkeyless keyboard" />
-<figcaption aria-hidden="true">caret on the tenkeyless keyboard</figcaption>
+<figcaption aria-hidden="true">
+caret on the tenkeyless keyboard
+</figcaption>
 </figure>
-
 <figure>
 <img src="_index_files/figure-gfm/unnamed-chunk-14-1.png" style="width:150.0%" alt="caret on the mac keyboard" />
-<figcaption aria-hidden="true">caret on the mac keyboard</figcaption>
+<figcaption aria-hidden="true">
+caret on the mac keyboard
+</figcaption>
 </figure>
 
 ### `_` underscore
@@ -112,12 +132,15 @@ This symbol is used as a shortcut for your home directory in unix-like systems, 
 
 <figure>
 <img src="_index_files/figure-gfm/unnamed-chunk-15-1.png" style="width:150.0%" alt="underscore on the tenkeyless keyboard" />
-<figcaption aria-hidden="true">underscore on the tenkeyless keyboard</figcaption>
+<figcaption aria-hidden="true">
+underscore on the tenkeyless keyboard
+</figcaption>
 </figure>
-
 <figure>
 <img src="_index_files/figure-gfm/unnamed-chunk-16-1.png" style="width:150.0%" alt="underscore on the mac keyboard" />
-<figcaption aria-hidden="true">underscore on the mac keyboard</figcaption>
+<figcaption aria-hidden="true">
+underscore on the mac keyboard
+</figcaption>
 </figure>
 
 ### `{` and `}` curly brackets
@@ -126,12 +149,15 @@ A lot like the square brackets, these serve a number of different uses. And agai
 
 <figure>
 <img src="_index_files/figure-gfm/unnamed-chunk-17-1.png" style="width:150.0%" alt="curly brackets on the tenkeyless keyboard" />
-<figcaption aria-hidden="true">curly brackets on the tenkeyless keyboard</figcaption>
+<figcaption aria-hidden="true">
+curly brackets on the tenkeyless keyboard
+</figcaption>
 </figure>
-
 <figure>
 <img src="_index_files/figure-gfm/unnamed-chunk-18-1.png" style="width:150.0%" alt="curly brackets on the mac keyboard" />
-<figcaption aria-hidden="true">curly brackets on the mac keyboard</figcaption>
+<figcaption aria-hidden="true">
+curly brackets on the mac keyboard
+</figcaption>
 </figure>
 
 ### `|` pipe *or* bar
@@ -140,12 +166,15 @@ This vertical line often means "or" in programming languages.
 
 <figure>
 <img src="_index_files/figure-gfm/unnamed-chunk-19-1.png" style="width:150.0%" alt="bar location on the tenkeyless keyboard" />
-<figcaption aria-hidden="true">bar location on the tenkeyless keyboard</figcaption>
+<figcaption aria-hidden="true">
+bar location on the tenkeyless keyboard
+</figcaption>
 </figure>
-
 <figure>
 <img src="_index_files/figure-gfm/unnamed-chunk-20-1.png" style="width:150.0%" alt="bar brackets on the mac keyboard" />
-<figcaption aria-hidden="true">bar brackets on the mac keyboard</figcaption>
+<figcaption aria-hidden="true">
+bar brackets on the mac keyboard
+</figcaption>
 </figure>
 
 ### `<` and `>` less than & greater than *or* angle brackets
@@ -154,12 +183,15 @@ Sometimes the symbols `<` and `>` are used for their mathematical meaning of "le
 
 <figure>
 <img src="_index_files/figure-gfm/unnamed-chunk-21-1.png" style="width:150.0%" alt="angle bracket location on the tenkeyless keyboard" />
-<figcaption aria-hidden="true">angle bracket location on the tenkeyless keyboard</figcaption>
+<figcaption aria-hidden="true">
+angle bracket location on the tenkeyless keyboard
+</figcaption>
 </figure>
-
 <figure>
 <img src="_index_files/figure-gfm/unnamed-chunk-22-1.png" style="width:150.0%" alt="angle bracket location on the tenkeyless keyboard" />
-<figcaption aria-hidden="true">angle bracket location on the tenkeyless keyboard</figcaption>
+<figcaption aria-hidden="true">
+angle bracket location on the tenkeyless keyboard
+</figcaption>
 </figure>
 
 ## Modifier Combos
@@ -168,12 +200,15 @@ Sometimes you'll see key combinations suggested to help you use the command line
 
 <figure>
 <img src="_index_files/figure-gfm/unnamed-chunk-23-1.png" style="width:150.0%" alt="Ctrl+C location on the tenkeyless keyboard" />
-<figcaption aria-hidden="true">Ctrl+C location on the tenkeyless keyboard</figcaption>
+<figcaption aria-hidden="true">
+Ctrl+C location on the tenkeyless keyboard
+</figcaption>
 </figure>
-
 <figure>
 <img src="_index_files/figure-gfm/unnamed-chunk-24-1.png" style="width:150.0%" alt="Ctrl+C location on the tenkeyless keyboard" />
-<figcaption aria-hidden="true">Ctrl+C location on the tenkeyless keyboard</figcaption>
+<figcaption aria-hidden="true">
+Ctrl+C location on the tenkeyless keyboard
+</figcaption>
 </figure>
 
 If you ever see more than two keys included in a key combination, assume they need to be pressed and held in the order they appear.
