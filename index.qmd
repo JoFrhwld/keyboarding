@@ -1,6 +1,10 @@
 ---
 title: "Keyboarding"
-author: [Josef Fruehwald](https://jofrhwld.github.io/)
+author: 
+  - name: "Josef Fruehwald"
+    url: "https://jofrhwld.github.io/"
+    affiliations:
+      - University of Kentucky
 date: 2020-9-1
 license: "CC-BY-SA 4.0"
 format: 
