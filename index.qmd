@@ -1,13 +1,18 @@
 ---
 title: "Keyboarding"
-format: hugo
+author: 
+  - name: [Josef Fruehwald](https://jofrhwld.github.io/)
+    url: https://jofrhwld.github.io/
+date: 2020-9-1
+license: "CC-BY-SA 4.0"
+format: 
+  html: default
+  pdf: default
 editor: visual
 knitr: 
   opts_chunk: 
     echo: false
     message: false
-draft: false
-weight: 90
 ---
 
 In command line interfaces, there are some characters you'll want to enter frequently which don't otherwise show up very often when you're typing. This guide is meant to help you find those keys.
@@ -219,7 +224,6 @@ ggkeyboard(keyboard = mac,
 ### `_` underscore
 
 Underscores are often used in file and variable names.
-
 
 ```{r}
 #| fig.cap: "underscore on the tenkeyless keyboard"
