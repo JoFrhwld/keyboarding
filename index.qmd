@@ -16,11 +16,13 @@ knitr:
     message: false
 ---
 
+```{r}
+#| include: false
+renv::use(lockfile = "renv.lock")
+```
+
 In command line interfaces, there are some characters you'll want to enter frequently which don't otherwise show up very often when you're typing. This guide is meant to help you find those keys.
 
-```{r}
-#devtools::install_github("sharlagelfand/ggkeyboard", ref = "main")
-```
 
 ```{r}
 library(ggkeyboard)
